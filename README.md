@@ -1,6 +1,6 @@
 # Sales Dashboard (Power BI)
 
-Project Overview
+## Project Overview
 This project demonstrates the use of Power BI to analyze sales data and create an interactive dashboard.  
 The dataset was pre-cleaned, and the focus of the project was on building meaningful visualizations and extracting business insights.
 
